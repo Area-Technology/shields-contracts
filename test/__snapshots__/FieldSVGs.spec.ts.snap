@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs1 has bytecode 1`] = `24020`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs1 has gas 1`] = `5232818`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs2 has bytecode 1`] = `24035`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs2 has gas 1`] = `5237171`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs3 has bytecode 1`] = `22074`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs3 has gas 1`] = `4816564`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs4 has bytecode 1`] = `21819`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs4 has gas 1`] = `4757187`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs5 has bytecode 1`] = `23920`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs5 has gas 1`] = `5212715`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs6 has bytecode 1`] = `22413`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs6 has gas 1`] = `4885144`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs7 has bytecode 1`] = `23323`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs7 has gas 1`] = `5083654`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs8 has bytecode 1`] = `22773`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs8 has gas 1`] = `4963277`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs9 has bytecode 1`] = `23282`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs9 has gas 1`] = `5078798`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs10 has bytecode 1`] = `24394`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs10 has gas 1`] = `5316830`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs11 has bytecode 1`] = `23878`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs11 has gas 1`] = `5208734`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs12 has bytecode 1`] = `23390`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs12 has gas 1`] = `5101012`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs13 has bytecode 1`] = `21708`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs13 has gas 1`] = `4739485`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs14 has bytecode 1`] = `23391`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs14 has gas 1`] = `5103592`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs15 has bytecode 1`] = `22887`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs15 has gas 1`] = `4992964`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs16 has bytecode 1`] = `22559`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs16 has gas 1`] = `4923903`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs17 has bytecode 1`] = `21890`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs17 has gas 1`] = `4775493`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs18 has bytecode 1`] = `24197`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs18 has gas 1`] = `5275592`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs19 has bytecode 1`] = `24406`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs19 has gas 1`] = `5315942`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs20 has bytecode 1`] = `23732`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs20 has gas 1`] = `5175318`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs21 has bytecode 1`] = `21692`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs21 has gas 1`] = `4734928`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs22 has bytecode 1`] = `20481`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs22 has gas 1`] = `4471703`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs23 has bytecode 1`] = `20410`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs23 has gas 1`] = `4454614`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs24 has bytecode 1`] = `5977`;
+
+exports[`FieldSVGs IFieldSVGs deployment FieldSVGs24 has gas 1`] = `1341933`;
+
+exports[`FieldSVGs constructor bytecode size 1`] = `4032`;
+
+exports[`FieldSVGs constructor deployment gas 1`] = `1161231`;

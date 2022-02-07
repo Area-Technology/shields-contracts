@@ -1,0 +1,39 @@
+{
+  "language": "Solidity",
+  "sources": {
+    "contracts/FrameGenerator.sol": {
+      "content": "// SPDX-License-Identifier: GPL-3.0-or-later\npragma solidity ^0.8.9;\n\nimport './interfaces/IFrameGenerator.sol';\nimport './interfaces/IFrameSVGs.sol';\nimport '@openzeppelin/contracts/utils/Strings.sol';\n\n/// @dev Generate Shield SVG\ncontract FrameGenerator is IFrameGenerator {\n    using Strings for uint16;\n\n    IFrameSVGs immutable frameSVGs1;\n    IFrameSVGs immutable frameSVGs2;\n\n    constructor(FrameSVGs memory svgs) {\n        frameSVGs1 = svgs.frameSVGs1;\n        frameSVGs2 = svgs.frameSVGs2;\n    }\n\n    function generateFrame(uint16 frame) external view override returns (IFrameSVGs.FrameData memory) {\n        if (frame <= 3) {\n            return callFrameSVGs(frameSVGs1, frame);\n        }\n\n        if (frame <= 5) {\n            return callFrameSVGs(frameSVGs2, frame);\n        }\n\n        revert('invalid frame selection');\n    }\n\n    function callFrameSVGs(IFrameSVGs target, uint16 frame) internal view returns (IFrameSVGs.FrameData memory) {\n        bytes memory functionSelector = abi.encodePacked('frame_', uint16(frame).toString(), '()');\n\n        bool success;\n        bytes memory result;\n        (success, result) = address(target).staticcall(abi.encodeWithSelector(bytes4(keccak256(functionSelector))));\n\n        return abi.decode(result, (IFrameSVGs.FrameData));\n    }\n}\n"
+    },
+    "contracts/interfaces/IFrameGenerator.sol": {
+      "content": "// SPDX-License-Identifier: GPL-3.0-or-later\npragma solidity ^0.8.9;\n\nimport './IFrameSVGs.sol';\n\n/// @dev Generate Shield SVG\ninterface IFrameGenerator {\n    struct FrameSVGs {\n        IFrameSVGs frameSVGs1;\n        IFrameSVGs frameSVGs2;\n    }\n\n    /// @notice Generates Frame snippet of SVG\n    /// @param Frame uint representing Frame selection\n    /// @return FrameData containing svg snippet and Frame title and Frame type\n    function generateFrame(uint16 Frame) external view returns (IFrameSVGs.FrameData memory);\n}\n"
+    },
+    "contracts/interfaces/IFrameSVGs.sol": {
+      "content": "// SPDX-License-Identifier: GPL-3.0-or-later\npragma solidity ^0.8.9;\n\ninterface IFrameSVGs {\n    struct FrameData {\n        string title;\n        uint256 fee;\n        string svgString;\n    }\n}\n"
+    },
+    "@openzeppelin/contracts/utils/Strings.sol": {
+      "content": "// SPDX-License-Identifier: MIT\n// OpenZeppelin Contracts v4.4.1 (utils/Strings.sol)\n\npragma solidity ^0.8.0;\n\n/**\n * @dev String operations.\n */\nlibrary Strings {\n    bytes16 private constant _HEX_SYMBOLS = \"0123456789abcdef\";\n\n    /**\n     * @dev Converts a `uint256` to its ASCII `string` decimal representation.\n     */\n    function toString(uint256 value) internal pure returns (string memory) {\n        // Inspired by OraclizeAPI's implementation - MIT licence\n        // https://github.com/oraclize/ethereum-api/blob/b42146b063c7d6ee1358846c198246239e9360e8/oraclizeAPI_0.4.25.sol\n\n        if (value == 0) {\n            return \"0\";\n        }\n        uint256 temp = value;\n        uint256 digits;\n        while (temp != 0) {\n            digits++;\n            temp /= 10;\n        }\n        bytes memory buffer = new bytes(digits);\n        while (value != 0) {\n            digits -= 1;\n            buffer[digits] = bytes1(uint8(48 + uint256(value % 10)));\n            value /= 10;\n        }\n        return string(buffer);\n    }\n\n    /**\n     * @dev Converts a `uint256` to its ASCII `string` hexadecimal representation.\n     */\n    function toHexString(uint256 value) internal pure returns (string memory) {\n        if (value == 0) {\n            return \"0x00\";\n        }\n        uint256 temp = value;\n        uint256 length = 0;\n        while (temp != 0) {\n            length++;\n            temp >>= 8;\n        }\n        return toHexString(value, length);\n    }\n\n    /**\n     * @dev Converts a `uint256` to its ASCII `string` hexadecimal representation with fixed length.\n     */\n    function toHexString(uint256 value, uint256 length) internal pure returns (string memory) {\n        bytes memory buffer = new bytes(2 * length + 2);\n        buffer[0] = \"0\";\n        buffer[1] = \"x\";\n        for (uint256 i = 2 * length + 1; i > 1; --i) {\n            buffer[i] = _HEX_SYMBOLS[value & 0xf];\n            value >>= 4;\n        }\n        require(value == 0, \"Strings: hex length insufficient\");\n        return string(buffer);\n    }\n}\n"
+    }
+  },
+  "settings": {
+    "optimizer": {
+      "enabled": true,
+      "runs": 1000000
+    },
+    "metadata": {
+      "bytecodeHash": "none"
+    },
+    "outputSelection": {
+      "*": {
+        "*": [
+          "abi",
+          "evm.bytecode",
+          "evm.deployedBytecode",
+          "evm.methodIdentifiers"
+        ],
+        "": [
+          "ast"
+        ]
+      }
+    }
+  }
+}

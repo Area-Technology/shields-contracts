@@ -1,0 +1,165 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs1 has bytecode 1`] = `21220`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs1 has gas 1`] = `4637380`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs2 has bytecode 1`] = `22349`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs2 has gas 1`] = `4882619`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs3 has bytecode 1`] = `21726`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs3 has gas 1`] = `4747105`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs4 has bytecode 1`] = `16772`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs4 has gas 1`] = `3676595`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs5 has bytecode 1`] = `16070`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs5 has gas 1`] = `3525027`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs6 has bytecode 1`] = `19072`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs6 has gas 1`] = `4174528`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs7 has bytecode 1`] = `22700`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs7 has gas 1`] = `4958159`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs8 has bytecode 1`] = `20438`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs8 has gas 1`] = `4469574`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs9 has bytecode 1`] = `20204`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs9 has gas 1`] = `4418851`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs10 has bytecode 1`] = `21224`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs10 has gas 1`] = `4638856`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs11 has bytecode 1`] = `19423`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs11 has gas 1`] = `4250100`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs12 has bytecode 1`] = `23986`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs12 has gas 1`] = `5237177`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs13 has bytecode 1`] = `21530`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs13 has gas 1`] = `4705341`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs14 has bytecode 1`] = `22896`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs14 has gas 1`] = `5000308`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs15 has bytecode 1`] = `16577`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs15 has gas 1`] = `3634895`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs16 has bytecode 1`] = `23596`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs16 has gas 1`] = `5153238`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs17 has bytecode 1`] = `22116`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs17 has gas 1`] = `4832470`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs18 has bytecode 1`] = `20165`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs18 has gas 1`] = `4410370`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs19 has bytecode 1`] = `17395`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs19 has gas 1`] = `3811725`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs20 has bytecode 1`] = `21528`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs20 has gas 1`] = `4706553`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs21 has bytecode 1`] = `20748`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs21 has gas 1`] = `4537675`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs22 has bytecode 1`] = `17512`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs22 has gas 1`] = `3837497`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs23 has bytecode 1`] = `16107`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs23 has gas 1`] = `3533831`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs24 has bytecode 1`] = `24570`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs24 has gas 1`] = `5363951`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs25 has bytecode 1`] = `15483`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs25 has gas 1`] = `3398852`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs26 has bytecode 1`] = `19890`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs26 has gas 1`] = `4351458`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs27 has bytecode 1`] = `21879`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs27 has gas 1`] = `4782108`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs28 has bytecode 1`] = `20601`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs28 has gas 1`] = `4505413`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs29 has bytecode 1`] = `17860`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs29 has gas 1`] = `3913235`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs30 has bytecode 1`] = `18757`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs30 has gas 1`] = `4107349`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs31 has bytecode 1`] = `17080`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs31 has gas 1`] = `3744887`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs32 has bytecode 1`] = `20278`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs32 has gas 1`] = `4435716`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs33 has bytecode 1`] = `20473`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs33 has gas 1`] = `4477647`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs34 has bytecode 1`] = `22696`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs34 has gas 1`] = `4956947`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs35 has bytecode 1`] = `18952`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs35 has gas 1`] = `4148847`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs36 has bytecode 1`] = `16027`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs36 has gas 1`] = `3516791`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs37 has bytecode 1`] = `21799`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs37 has gas 1`] = `4764591`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs38 has bytecode 1`] = `17158`;
+
+exports[`HardwareGenerator IHardwareSVGs deployment HardwareSVGs38 has gas 1`] = `3760596`;
+
+exports[`HardwareGenerator SVG Generation returns the correct hardware svg string 1`] = `
+Array [
+  "Bushing Hammer",
+  0,
+  "<defs><linearGradient gradientUnits=\\"userSpaceOnUse\\" id=\\"h0-a\\" x1=\\"23.65\\" x2=\\"4.03\\" y1=\\"10\\" y2=\\"10\\"><stop offset=\\"0\\" stop-color=\\"gray\\"/><stop offset=\\"1\\" stop-color=\\"#fff\\"/></linearGradient><linearGradient gradientUnits=\\"userSpaceOnUse\\" id=\\"h0-b\\" x1=\\"11.25\\" x2=\\"11.25\\" y1=\\"0.98\\" y2=\\"22.2\\"><stop offset=\\"0\\" stop-color=\\"#fff\\"/><stop offset=\\"1\\" stop-color=\\"gray\\"/></linearGradient><filter id=\\"h0-c\\" name=\\"shadow\\"><feDropShadow dx=\\"0\\" dy=\\"2\\" stdDeviation=\\"0\\"/></filter><linearGradient gradientTransform=\\"matrix(1, 0, 0, -1, 0, 264)\\" gradientUnits=\\"userSpaceOnUse\\" id=\\"h0-d\\" x1=\\"101.34\\" x2=\\"116.66\\" y1=\\"127.98\\" y2=\\"127.98\\"><stop offset=\\"0\\" stop-color=\\"gray\\"/><stop offset=\\"0.24\\" stop-color=\\"#4b4b4b\\"/><stop offset=\\"0.68\\" stop-color=\\"#fff\\"/><stop offset=\\"1\\" stop-color=\\"gray\\"/></linearGradient><linearGradient gradientTransform=\\"matrix(1, 0, 0, -1, 0, 264)\\" id=\\"h0-e\\" x1=\\"110\\" x2=\\"110\\" xlink:href=\\"#h0-b\\" y1=\\"82.1\\" y2=\\"130.35\\"/><linearGradient id=\\"h0-f\\" x1=\\"110\\" x2=\\"110\\" xlink:href=\\"#h0-b\\" y1=\\"94.39\\" y2=\\"115.71\\"/><linearGradient gradientTransform=\\"matrix(1, 0, 0, -1, 0, 264)\\" gradientUnits=\\"userSpaceOnUse\\" id=\\"h0-g\\" x1=\\"100\\" x2=\\"120\\" y1=\\"171.5\\" y2=\\"171.5\\"><stop offset=\\"0\\" stop-color=\\"#fff\\"/><stop offset=\\"0.5\\" stop-color=\\"gray\\"/><stop offset=\\"1\\" stop-color=\\"#fff\\"/></linearGradient><linearGradient gradientTransform=\\"matrix(1, 0, 0, -1, 0, 264)\\" id=\\"h0-h\\" x1=\\"114.95\\" x2=\\"105.64\\" xlink:href=\\"#h0-b\\" y1=\\"174.69\\" y2=\\"174.69\\"/><symbol id=\\"h0-i\\" viewBox=\\"0 0 22.51 20\\"><path d=\\"M1,20l20-2.61V2.62L1,0Z\\" fill=\\"url(#h0-a)\\"/><path d=\\"M22.51,5.93,21,6.31V4.46l1.51.38Zm0,.75L21,6.31V8.15l1.51-.37Zm0,3.7L21,10v1.85l1.51-.38Zm0-1.85L21,8.15V10l1.51-.38Zm0,3.69L21,11.85v1.84l1.51-.37Zm0,3.69L21,15.54v1.11L.63,19,1,20l20-2.61L22.51,17Zm0-1.84L21,13.69v1.85l1.51-.38ZM21,2.62,1,0H0L1,1,21,3.62v.84l1.51-.37V3Z\\" fill=\\"url(#h0-b)\\"/></symbol></defs><g filter=\\"url(#h0-c)\\"><path d=\\"M118.82,172.21c0-5.62-3.15-5.27-3.15-14.41s1.1-17.06,1.1-25-2.22-9.09-2.22-42.89h-9.09c0,33.8-2.23,35-2.23,42.89s1.1,15.82,1.1,25-3.15,8.79-3.15,14.41,2.27,9.88,8.82,9.88S118.82,177.84,118.82,172.21Z\\" fill=\\"url(#h0-d)\\"/><path d=\\"M114.45,170.7c0-4.12-1.59-3.86-1.59-10.55s.55-12.47.55-18.26-6.82-5.78-6.82,0,.55,11.58.55,18.26-1.58,6.43-1.58,10.55,1.14,7.23,4.44,7.23S114.45,174.81,114.45,170.7Z\\" fill=\\"url(#h0-e)\\"/><path d=\\"M120,92H100v20h20Z\\" fill=\\"url(#h0-f)\\"/><use height=\\"20\\" transform=\\"translate(119 92)\\" width=\\"22.51\\" xlink:href=\\"#h0-i\\"/><use height=\\"20\\" transform=\\"matrix(-1, 0, 0, 1, 101, 92)\\" width=\\"22.51\\" xlink:href=\\"#h0-i\\"/><path d=\\"M100,93l1-1h18l1,1Z\\" fill=\\"url(#h0-g)\\"/><path d=\\"M113.55,88.68h-7.09l-1,1.27h9.09Z\\" fill=\\"url(#h0-h)\\"/></g>",
+]
+`;
+
+exports[`HardwareGenerator constructor bytecode size 1`] = `4111`;
+
+exports[`HardwareGenerator constructor deployment gas 1`] = `969783`;

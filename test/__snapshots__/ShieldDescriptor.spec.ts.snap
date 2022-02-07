@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EmblemWeaver constructor deployment gas 1`] = `2028334`;
+
+exports[`EmblemWeaver constructor has bytecode size 1`] = `12692`;
