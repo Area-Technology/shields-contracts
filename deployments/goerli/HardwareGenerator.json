@@ -1,0 +1,334 @@
+{
+  "address": "0xDb15c4D2bfbC6F71B0FDe4b980D88e129C1CBd25",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "components": [
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs1",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs2",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs3",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs4",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs5",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs6",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs7",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs8",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs9",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs10",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs11",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs12",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs13",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs14",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs15",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs16",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs17",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs18",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs19",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs20",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs21",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs22",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs23",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs24",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs25",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs26",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs27",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs28",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs29",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs30",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs31",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs32",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs33",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs34",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs35",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs36",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs37",
+              "type": "address"
+            },
+            {
+              "internalType": "contract IHardwareSVGs",
+              "name": "hardwareSVGs38",
+              "type": "address"
+            }
+          ],
+          "internalType": "struct IHardwareGenerator.HardwareSVGs",
+          "name": "svgs",
+          "type": "tuple"
+        }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint16",
+          "name": "hardware",
+          "type": "uint16"
+        }
+      ],
+      "name": "generateHardware",
+      "outputs": [
+        {
+          "components": [
+            {
+              "internalType": "string",
+              "name": "title",
+              "type": "string"
+            },
+            {
+              "internalType": "enum ICategories.Categories",
+              "name": "hardwareType",
+              "type": "uint8"
+            },
+            {
+              "internalType": "string",
+              "name": "svgString",
+              "type": "string"
+            }
+          ],
+          "internalType": "struct IHardwareSVGs.HardwareData",
+          "name": "",
+          "type": "tuple"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "transactionHash": "0x33a51f366f7055c94fd096a4578b3c9cb24c02625fa7c90e0087e40bf40fc355",
+  "receipt": {
+    "to": null,
+    "from": "0x177be9F3051e25F3732112572A19BD22e14066ED",
+    "contractAddress": "0xDb15c4D2bfbC6F71B0FDe4b980D88e129C1CBd25",
+    "transactionIndex": 36,
+    "gasUsed": "1101109",
+    "logsBloom": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "blockHash": "0xaa7a885f8638dd293384dfb382e6724a7d69d0bded54a4e611b35612be250a59",
+    "transactionHash": "0x33a51f366f7055c94fd096a4578b3c9cb24c02625fa7c90e0087e40bf40fc355",
+    "logs": [],
+    "blockNumber": 6168324,
+    "cumulativeGasUsed": "3536444",
+    "status": 1,
+    "byzantium": true
+  },
+  "args": [
+    {
+      "hardwareSVGs1": "0xd0ebb4ec57d2fe7e7b0f06fb4587f84c8ac329ec",
+      "hardwareSVGs2": "0x3ebfc329b207c7b04d120d0f42774fb588eda458",
+      "hardwareSVGs3": "0xdb738f6af82a9868beda13dcd972de8ff38c32fb",
+      "hardwareSVGs4": "0xa9d621f71616d9e6e1e34b7e8af6f4b20d2d5563",
+      "hardwareSVGs5": "0x7ae881b692bd769581d3a0717344692f28792aeb",
+      "hardwareSVGs6": "0xb20f54be9d51293aecf245bc75a85ca93ee5893c",
+      "hardwareSVGs7": "0x901b3eaa74347a8da1abdd41f8c54e00a2fdba4f",
+      "hardwareSVGs8": "0x4f4b6826e45c9252a874c71aa02ccdec38779c0b",
+      "hardwareSVGs9": "0x9d340ed2ebf919542aa2b984f007aa2e8d40b358",
+      "hardwareSVGs10": "0xc39cf203d3de85258b2540f0d1a7aa181a227620",
+      "hardwareSVGs11": "0x394c99ea56e22659d809602e6def89f8f7820af4",
+      "hardwareSVGs12": "0x68396c280d82d3ec13e6d9cbd8d301bb03125754",
+      "hardwareSVGs13": "0xb86a378fddbf04650c46af3ebb052f0a1e58b96d",
+      "hardwareSVGs14": "0x50f824928ccf9af0a0a86c670927278e4de60a72",
+      "hardwareSVGs15": "0x305f790620373d9c3729d957ca4ad5ba5e287f28",
+      "hardwareSVGs16": "0x06308cb75a61f0306c5a0aa6fbb6762f702fc1c6",
+      "hardwareSVGs17": "0xba4bd08c0b423c158a48acc69178a0541465c41e",
+      "hardwareSVGs18": "0x15f6a96665be02a72454eb53684eb5a22b11cffc",
+      "hardwareSVGs19": "0x39b55817967b6dd5dff68fee7961a427bb1f7490",
+      "hardwareSVGs20": "0x66e55daf4a46f7950577ac939f95540d28bc0008",
+      "hardwareSVGs21": "0x13f1d16168a0810d5f5b1fbceb889b4f3dfb366c",
+      "hardwareSVGs22": "0xcc259e2e64b7cc0a8daa3cd37d4eebf226d679e8",
+      "hardwareSVGs23": "0x48977473c56360d8388088e511cd750655f28d99",
+      "hardwareSVGs24": "0xce6fb1fe2daf1b3669aa4c153706ce129f7e393a",
+      "hardwareSVGs25": "0x9cc2242130da680f41e20c4f7c59ca11f272686b",
+      "hardwareSVGs26": "0xebd08251d18ebe1d11c1c2b6fef57e178333e717",
+      "hardwareSVGs27": "0x3e97b3179565f783721cdb82e0054df83d7d73f1",
+      "hardwareSVGs28": "0x7f0acd3f8af735640ff0d4b0a9192f0022736f7a",
+      "hardwareSVGs29": "0x312ea5e1876cce28c0cb46bf02f7ed6632600ceb",
+      "hardwareSVGs30": "0x5c7c0414db7d482e4bd9810e7372ec022c26a2a9",
+      "hardwareSVGs31": "0xff1ac4e3f798dd369e1d7ce8d8ddbf49661b9469",
+      "hardwareSVGs32": "0xd19c3c0a3daeadb56ce14671954682f7f9b003bb",
+      "hardwareSVGs33": "0xd0bb88985d9cc8483e7535a9f39ad353a2ab904e",
+      "hardwareSVGs34": "0x4d03667c2ef2e329ebaa667629bbf9fe8327f246",
+      "hardwareSVGs35": "0xcd82953c1745c3656d1089bac674ad10cc548e17",
+      "hardwareSVGs36": "0x0404aa73c2f14c741c3756f7268db201f0b5dba9",
+      "hardwareSVGs37": "0x678f50ff48595ab09a3e7c961b990472bd29ffee",
+      "hardwareSVGs38": "0x1b1f62dde20e46c712aeffb750c360d3891087a0"
+    }
+  ],
+  "solcInputHash": "0ac3b406cc563db62fbf6a074b8a54e1",
+  "metadata": "{\"compiler\":{\"version\":\"0.7.6+commit.7338295f\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"components\":[{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs1\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs2\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs3\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs4\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs5\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs6\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs7\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs8\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs9\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs10\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs11\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs12\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs13\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs14\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs15\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs16\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs17\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs18\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs19\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs20\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs21\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs22\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs23\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs24\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs25\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs26\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs27\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs28\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs29\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs30\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs31\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs32\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs33\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs34\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs35\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs36\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs37\",\"type\":\"address\"},{\"internalType\":\"contract IHardwareSVGs\",\"name\":\"hardwareSVGs38\",\"type\":\"address\"}],\"internalType\":\"struct IHardwareGenerator.HardwareSVGs\",\"name\":\"svgs\",\"type\":\"tuple\"}],\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"inputs\":[{\"internalType\":\"uint16\",\"name\":\"hardware\",\"type\":\"uint16\"}],\"name\":\"generateHardware\",\"outputs\":[{\"components\":[{\"internalType\":\"string\",\"name\":\"title\",\"type\":\"string\"},{\"internalType\":\"enum ICategories.Categories\",\"name\":\"hardwareType\",\"type\":\"uint8\"},{\"internalType\":\"string\",\"name\":\"svgString\",\"type\":\"string\"}],\"internalType\":\"struct IHardwareSVGs.HardwareData\",\"name\":\"\",\"type\":\"tuple\"}],\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"details\":\"Generate Shield SVG\",\"kind\":\"dev\",\"methods\":{\"generateHardware(uint16)\":{\"params\":{\"hardware\":\"uint representing hardware selection\"},\"returns\":{\"_0\":\"HardwareData containing svg snippet and hardware title and hardware type\"}}},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{\"generateHardware(uint16)\":{\"notice\":\"Generates hardware snippet of SVG\"}},\"version\":1}},\"settings\":{\"compilationTarget\":{\"contracts/HardwareGenerator.sol\":\"HardwareGenerator\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"none\",\"useLiteralContent\":true},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"@openzeppelin/contracts/utils/Strings.sol\":{\"content\":\"// SPDX-License-Identifier: MIT\\n\\npragma solidity ^0.7.0;\\n\\n/**\\n * @dev String operations.\\n */\\nlibrary Strings {\\n    /**\\n     * @dev Converts a `uint256` to its ASCII `string` representation.\\n     */\\n    function toString(uint256 value) internal pure returns (string memory) {\\n        // Inspired by OraclizeAPI's implementation - MIT licence\\n        // https://github.com/oraclize/ethereum-api/blob/b42146b063c7d6ee1358846c198246239e9360e8/oraclizeAPI_0.4.25.sol\\n\\n        if (value == 0) {\\n            return \\\"0\\\";\\n        }\\n        uint256 temp = value;\\n        uint256 digits;\\n        while (temp != 0) {\\n            digits++;\\n            temp /= 10;\\n        }\\n        bytes memory buffer = new bytes(digits);\\n        uint256 index = digits - 1;\\n        temp = value;\\n        while (temp != 0) {\\n            buffer[index--] = bytes1(uint8(48 + temp % 10));\\n            temp /= 10;\\n        }\\n        return string(buffer);\\n    }\\n}\\n\",\"keccak256\":\"0x08e38e034333372aea8cb1b8846085b7fbab42c6b77a0af464d2c6827827c4f0\",\"license\":\"MIT\"},\"contracts/HardwareGenerator.sol\":{\"content\":\"// SPDX-License-Identifier: GPL-3.0-or-later\\npragma solidity ^0.7.6;\\npragma abicoder v2;\\n\\nimport './interfaces/IHardwareGenerator.sol';\\nimport './interfaces/IHardwareSVGs.sol';\\nimport '@openzeppelin/contracts/utils/Strings.sol';\\n\\n/// @dev Generate Shield SVG\\ncontract HardwareGenerator is IHardwareGenerator {\\n    using Strings for uint16;\\n\\n    IHardwareSVGs immutable hardwareSVGs1;\\n    IHardwareSVGs immutable hardwareSVGs2;\\n    IHardwareSVGs immutable hardwareSVGs3;\\n    IHardwareSVGs immutable hardwareSVGs4;\\n    IHardwareSVGs immutable hardwareSVGs5;\\n    IHardwareSVGs immutable hardwareSVGs6;\\n    IHardwareSVGs immutable hardwareSVGs7;\\n    IHardwareSVGs immutable hardwareSVGs8;\\n    IHardwareSVGs immutable hardwareSVGs9;\\n    IHardwareSVGs immutable hardwareSVGs10;\\n    IHardwareSVGs immutable hardwareSVGs11;\\n    IHardwareSVGs immutable hardwareSVGs12;\\n    IHardwareSVGs immutable hardwareSVGs13;\\n    IHardwareSVGs immutable hardwareSVGs14;\\n    IHardwareSVGs immutable hardwareSVGs15;\\n    IHardwareSVGs immutable hardwareSVGs16;\\n    IHardwareSVGs immutable hardwareSVGs17;\\n    IHardwareSVGs immutable hardwareSVGs18;\\n    IHardwareSVGs immutable hardwareSVGs19;\\n    IHardwareSVGs immutable hardwareSVGs20;\\n    IHardwareSVGs immutable hardwareSVGs21;\\n    IHardwareSVGs immutable hardwareSVGs22;\\n    IHardwareSVGs immutable hardwareSVGs23;\\n    IHardwareSVGs immutable hardwareSVGs24;\\n    IHardwareSVGs immutable hardwareSVGs25;\\n    IHardwareSVGs immutable hardwareSVGs26;\\n    IHardwareSVGs immutable hardwareSVGs27;\\n    IHardwareSVGs immutable hardwareSVGs28;\\n    IHardwareSVGs immutable hardwareSVGs29;\\n    IHardwareSVGs immutable hardwareSVGs30;\\n    IHardwareSVGs immutable hardwareSVGs31;\\n    IHardwareSVGs immutable hardwareSVGs32;\\n    IHardwareSVGs immutable hardwareSVGs33;\\n    IHardwareSVGs immutable hardwareSVGs34;\\n    IHardwareSVGs immutable hardwareSVGs35;\\n    IHardwareSVGs immutable hardwareSVGs36;\\n    IHardwareSVGs immutable hardwareSVGs37;\\n    IHardwareSVGs immutable hardwareSVGs38;\\n\\n    constructor(HardwareSVGs memory svgs) {\\n        hardwareSVGs1 = svgs.hardwareSVGs1;\\n        hardwareSVGs2 = svgs.hardwareSVGs2;\\n        hardwareSVGs3 = svgs.hardwareSVGs3;\\n        hardwareSVGs4 = svgs.hardwareSVGs4;\\n        hardwareSVGs5 = svgs.hardwareSVGs5;\\n        hardwareSVGs6 = svgs.hardwareSVGs6;\\n        hardwareSVGs7 = svgs.hardwareSVGs7;\\n        hardwareSVGs8 = svgs.hardwareSVGs8;\\n        hardwareSVGs9 = svgs.hardwareSVGs9;\\n        hardwareSVGs10 = svgs.hardwareSVGs10;\\n        hardwareSVGs11 = svgs.hardwareSVGs11;\\n        hardwareSVGs12 = svgs.hardwareSVGs12;\\n        hardwareSVGs13 = svgs.hardwareSVGs13;\\n        hardwareSVGs14 = svgs.hardwareSVGs14;\\n        hardwareSVGs15 = svgs.hardwareSVGs15;\\n        hardwareSVGs16 = svgs.hardwareSVGs16;\\n        hardwareSVGs17 = svgs.hardwareSVGs17;\\n        hardwareSVGs18 = svgs.hardwareSVGs18;\\n        hardwareSVGs19 = svgs.hardwareSVGs19;\\n        hardwareSVGs20 = svgs.hardwareSVGs20;\\n        hardwareSVGs21 = svgs.hardwareSVGs21;\\n        hardwareSVGs22 = svgs.hardwareSVGs22;\\n        hardwareSVGs23 = svgs.hardwareSVGs23;\\n        hardwareSVGs24 = svgs.hardwareSVGs24;\\n        hardwareSVGs25 = svgs.hardwareSVGs25;\\n        hardwareSVGs26 = svgs.hardwareSVGs26;\\n        hardwareSVGs27 = svgs.hardwareSVGs27;\\n        hardwareSVGs28 = svgs.hardwareSVGs28;\\n        hardwareSVGs29 = svgs.hardwareSVGs29;\\n        hardwareSVGs30 = svgs.hardwareSVGs30;\\n        hardwareSVGs31 = svgs.hardwareSVGs31;\\n        hardwareSVGs32 = svgs.hardwareSVGs32;\\n        hardwareSVGs33 = svgs.hardwareSVGs33;\\n        hardwareSVGs34 = svgs.hardwareSVGs34;\\n        hardwareSVGs35 = svgs.hardwareSVGs35;\\n        hardwareSVGs36 = svgs.hardwareSVGs36;\\n        hardwareSVGs37 = svgs.hardwareSVGs37;\\n        hardwareSVGs38 = svgs.hardwareSVGs38;\\n    }\\n\\n    function callHardwareSVGs(IHardwareSVGs target, uint16 hardware)\\n        internal\\n        view\\n        returns (IHardwareSVGs.HardwareData memory)\\n    {\\n        bytes memory functionSelector = abi.encodePacked('hardware_', uint16(hardware).toString(), '()');\\n\\n        bool success;\\n        bytes memory result;\\n        (success, result) = address(target).staticcall(abi.encodeWithSelector(bytes4(keccak256(functionSelector))));\\n\\n        return abi.decode(result, (IHardwareSVGs.HardwareData));\\n    }\\n\\n    function generateHardware(uint16 hardware) external view override returns (IHardwareSVGs.HardwareData memory) {\\n        if (hardware <= 5) {\\n            return callHardwareSVGs(hardwareSVGs1, hardware);\\n        }\\n\\n        if (hardware <= 9) {\\n            return callHardwareSVGs(hardwareSVGs2, hardware);\\n        }\\n\\n        if (hardware <= 14) {\\n            return callHardwareSVGs(hardwareSVGs3, hardware);\\n        }\\n\\n        if (hardware <= 18) {\\n            return callHardwareSVGs(hardwareSVGs4, hardware);\\n        }\\n\\n        if (hardware <= 22) {\\n            return callHardwareSVGs(hardwareSVGs5, hardware);\\n        }\\n\\n        if (hardware <= 25) {\\n            return callHardwareSVGs(hardwareSVGs6, hardware);\\n        }\\n\\n        if (hardware <= 29) {\\n            return callHardwareSVGs(hardwareSVGs7, hardware);\\n        }\\n\\n        if (hardware <= 33) {\\n            return callHardwareSVGs(hardwareSVGs8, hardware);\\n        }\\n\\n        if (hardware <= 37) {\\n            return callHardwareSVGs(hardwareSVGs9, hardware);\\n        }\\n\\n        if (hardware <= 41) {\\n            return callHardwareSVGs(hardwareSVGs10, hardware);\\n        }\\n\\n        if (hardware <= 44) {\\n            return callHardwareSVGs(hardwareSVGs11, hardware);\\n        }\\n\\n        if (hardware <= 47) {\\n            return callHardwareSVGs(hardwareSVGs12, hardware);\\n        }\\n\\n        if (hardware <= 51) {\\n            return callHardwareSVGs(hardwareSVGs13, hardware);\\n        }\\n\\n        if (hardware <= 56) {\\n            return callHardwareSVGs(hardwareSVGs14, hardware);\\n        }\\n\\n        if (hardware <= 60) {\\n            return callHardwareSVGs(hardwareSVGs15, hardware);\\n        }\\n\\n        if (hardware <= 63) {\\n            return callHardwareSVGs(hardwareSVGs16, hardware);\\n        }\\n\\n        if (hardware <= 68) {\\n            return callHardwareSVGs(hardwareSVGs17, hardware);\\n        }\\n\\n        if (hardware <= 72) {\\n            return callHardwareSVGs(hardwareSVGs18, hardware);\\n        }\\n\\n        if (hardware <= 75) {\\n            return callHardwareSVGs(hardwareSVGs19, hardware);\\n        }\\n\\n        if (hardware <= 77) {\\n            return callHardwareSVGs(hardwareSVGs20, hardware);\\n        }\\n\\n        if (hardware <= 79) {\\n            return callHardwareSVGs(hardwareSVGs21, hardware);\\n        }\\n\\n        if (hardware <= 82) {\\n            return callHardwareSVGs(hardwareSVGs22, hardware);\\n        }\\n\\n        if (hardware <= 84) {\\n            return callHardwareSVGs(hardwareSVGs23, hardware);\\n        }\\n\\n        if (hardware <= 86) {\\n            return callHardwareSVGs(hardwareSVGs24, hardware);\\n        }\\n\\n        if (hardware <= 88) {\\n            return callHardwareSVGs(hardwareSVGs25, hardware);\\n        }\\n\\n        if (hardware <= 90) {\\n            return callHardwareSVGs(hardwareSVGs26, hardware);\\n        }\\n\\n        if (hardware <= 92) {\\n            return callHardwareSVGs(hardwareSVGs27, hardware);\\n        }\\n\\n        if (hardware <= 95) {\\n            return callHardwareSVGs(hardwareSVGs28, hardware);\\n        }\\n\\n        if (hardware <= 97) {\\n            return callHardwareSVGs(hardwareSVGs29, hardware);\\n        }\\n\\n        if (hardware <= 99) {\\n            return callHardwareSVGs(hardwareSVGs30, hardware);\\n        }\\n\\n        if (hardware <= 101) {\\n            return callHardwareSVGs(hardwareSVGs31, hardware);\\n        }\\n\\n        if (hardware <= 103) {\\n            return callHardwareSVGs(hardwareSVGs32, hardware);\\n        }\\n\\n        if (hardware <= 106) {\\n            return callHardwareSVGs(hardwareSVGs33, hardware);\\n        }\\n\\n        if (hardware <= 111) {\\n            return callHardwareSVGs(hardwareSVGs34, hardware);\\n        }\\n\\n        if (hardware <= 114) {\\n            return callHardwareSVGs(hardwareSVGs35, hardware);\\n        }\\n\\n        if (hardware <= 116) {\\n            return callHardwareSVGs(hardwareSVGs36, hardware);\\n        }\\n\\n        if (hardware <= 119) {\\n            return callHardwareSVGs(hardwareSVGs37, hardware);\\n        }\\n\\n        if (hardware <= 120) {\\n            return callHardwareSVGs(hardwareSVGs38, hardware);\\n        }\\n\\n        revert('invalid hardware selection');\\n    }\\n}\\n\",\"keccak256\":\"0xebafcee2514e79dd263942e8abceae64581e44f2176f9e0b543c91ced69bcebf\",\"license\":\"GPL-3.0-or-later\"},\"contracts/interfaces/ICategories.sol\":{\"content\":\"// SPDX-License-Identifier: GPL-3.0-or-later\\npragma solidity ^0.7.6;\\npragma abicoder v2;\\n\\n/// @dev Generate Shield SVG\\ninterface ICategories {\\n    enum Categories {\\n        MYTHIC,\\n        HERALDIC\\n    }\\n}\\n\",\"keccak256\":\"0x1769d481cd2a69427ca954be1a53d71f0ddfc80a928903163baa7e661b5db22a\",\"license\":\"GPL-3.0-or-later\"},\"contracts/interfaces/IHardwareGenerator.sol\":{\"content\":\"// SPDX-License-Identifier: GPL-3.0-or-later\\npragma solidity ^0.7.6;\\npragma abicoder v2;\\n\\nimport './IHardwareSVGs.sol';\\n\\n/// @dev Generate Shield SVG\\ninterface IHardwareGenerator {\\n    /// @notice Generates hardware snippet of SVG\\n    /// @param hardware uint representing hardware selection\\n    /// @return HardwareData containing svg snippet and hardware title and hardware type\\n    function generateHardware(uint16 hardware) external view returns (IHardwareSVGs.HardwareData memory);\\n\\n    struct HardwareSVGs {\\n        IHardwareSVGs hardwareSVGs1;\\n        IHardwareSVGs hardwareSVGs2;\\n        IHardwareSVGs hardwareSVGs3;\\n        IHardwareSVGs hardwareSVGs4;\\n        IHardwareSVGs hardwareSVGs5;\\n        IHardwareSVGs hardwareSVGs6;\\n        IHardwareSVGs hardwareSVGs7;\\n        IHardwareSVGs hardwareSVGs8;\\n        IHardwareSVGs hardwareSVGs9;\\n        IHardwareSVGs hardwareSVGs10;\\n        IHardwareSVGs hardwareSVGs11;\\n        IHardwareSVGs hardwareSVGs12;\\n        IHardwareSVGs hardwareSVGs13;\\n        IHardwareSVGs hardwareSVGs14;\\n        IHardwareSVGs hardwareSVGs15;\\n        IHardwareSVGs hardwareSVGs16;\\n        IHardwareSVGs hardwareSVGs17;\\n        IHardwareSVGs hardwareSVGs18;\\n        IHardwareSVGs hardwareSVGs19;\\n        IHardwareSVGs hardwareSVGs20;\\n        IHardwareSVGs hardwareSVGs21;\\n        IHardwareSVGs hardwareSVGs22;\\n        IHardwareSVGs hardwareSVGs23;\\n        IHardwareSVGs hardwareSVGs24;\\n        IHardwareSVGs hardwareSVGs25;\\n        IHardwareSVGs hardwareSVGs26;\\n        IHardwareSVGs hardwareSVGs27;\\n        IHardwareSVGs hardwareSVGs28;\\n        IHardwareSVGs hardwareSVGs29;\\n        IHardwareSVGs hardwareSVGs30;\\n        IHardwareSVGs hardwareSVGs31;\\n        IHardwareSVGs hardwareSVGs32;\\n        IHardwareSVGs hardwareSVGs33;\\n        IHardwareSVGs hardwareSVGs34;\\n        IHardwareSVGs hardwareSVGs35;\\n        IHardwareSVGs hardwareSVGs36;\\n        IHardwareSVGs hardwareSVGs37;\\n        IHardwareSVGs hardwareSVGs38;\\n    }\\n}\\n\",\"keccak256\":\"0x7bc5e6777d74641427bc2e0bc4be5702959867a4127c28948e6891a90906669e\",\"license\":\"GPL-3.0-or-later\"},\"contracts/interfaces/IHardwareSVGs.sol\":{\"content\":\"// SPDX-License-Identifier: GPL-3.0-or-later\\npragma solidity ^0.7.6;\\npragma abicoder v2;\\n\\nimport './ICategories.sol';\\n\\ninterface IHardwareSVGs {\\n    struct HardwareData {\\n        string title;\\n        ICategories.Categories hardwareType;\\n        string svgString;\\n    }\\n}\\n\",\"keccak256\":\"0x03aafba3c6ac2d51ef02c05051db580c8162ac60970527824d6c661e092a4efa\",\"license\":\"GPL-3.0-or-later\"}},\"version\":1}",
+  "bytecode": "0x6105406040523480156200001257600080fd5b506040516200215e3803806200215e833981810160405281019062000038919062000d01565b806000015173ffffffffffffffffffffffffffffffffffffffff1660808173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806020015173ffffffffffffffffffffffffffffffffffffffff1660a08173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806040015173ffffffffffffffffffffffffffffffffffffffff1660c08173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806060015173ffffffffffffffffffffffffffffffffffffffff1660e08173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806080015173ffffffffffffffffffffffffffffffffffffffff166101008173ffffffffffffffffffffffffffffffffffffffff1660601b815250508060a0015173ffffffffffffffffffffffffffffffffffffffff166101208173ffffffffffffffffffffffffffffffffffffffff1660601b815250508060c0015173ffffffffffffffffffffffffffffffffffffffff166101408173ffffffffffffffffffffffffffffffffffffffff1660601b815250508060e0015173ffffffffffffffffffffffffffffffffffffffff166101608173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610100015173ffffffffffffffffffffffffffffffffffffffff166101808173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610120015173ffffffffffffffffffffffffffffffffffffffff166101a08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610140015173ffffffffffffffffffffffffffffffffffffffff166101c08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610160015173ffffffffffffffffffffffffffffffffffffffff166101e08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610180015173ffffffffffffffffffffffffffffffffffffffff166102008173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806101a0015173ffffffffffffffffffffffffffffffffffffffff166102208173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806101c0015173ffffffffffffffffffffffffffffffffffffffff166102408173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806101e0015173ffffffffffffffffffffffffffffffffffffffff166102608173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610200015173ffffffffffffffffffffffffffffffffffffffff166102808173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610220015173ffffffffffffffffffffffffffffffffffffffff166102a08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610240015173ffffffffffffffffffffffffffffffffffffffff166102c08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610260015173ffffffffffffffffffffffffffffffffffffffff166102e08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610280015173ffffffffffffffffffffffffffffffffffffffff166103008173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806102a0015173ffffffffffffffffffffffffffffffffffffffff166103208173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806102c0015173ffffffffffffffffffffffffffffffffffffffff166103408173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806102e0015173ffffffffffffffffffffffffffffffffffffffff166103608173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610300015173ffffffffffffffffffffffffffffffffffffffff166103808173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610320015173ffffffffffffffffffffffffffffffffffffffff166103a08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610340015173ffffffffffffffffffffffffffffffffffffffff166103c08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610360015173ffffffffffffffffffffffffffffffffffffffff166103e08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610380015173ffffffffffffffffffffffffffffffffffffffff166104008173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806103a0015173ffffffffffffffffffffffffffffffffffffffff166104208173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806103c0015173ffffffffffffffffffffffffffffffffffffffff166104408173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806103e0015173ffffffffffffffffffffffffffffffffffffffff166104608173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610400015173ffffffffffffffffffffffffffffffffffffffff166104808173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610420015173ffffffffffffffffffffffffffffffffffffffff166104a08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610440015173ffffffffffffffffffffffffffffffffffffffff166104c08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610460015173ffffffffffffffffffffffffffffffffffffffff166104e08173ffffffffffffffffffffffffffffffffffffffff1660601b8152505080610480015173ffffffffffffffffffffffffffffffffffffffff166105008173ffffffffffffffffffffffffffffffffffffffff1660601b81525050806104a0015173ffffffffffffffffffffffffffffffffffffffff166105208173ffffffffffffffffffffffffffffffffffffffff1660601b815250505062000dc6565b600081519050620009528162000dac565b92915050565b60006104c082840312156200096c57600080fd5b620009796104c062000d2e565b905060006200098b8482850162000941565b6000830152506020620009a18482850162000941565b6020830152506040620009b78482850162000941565b6040830152506060620009cd8482850162000941565b6060830152506080620009e38482850162000941565b60808301525060a0620009f98482850162000941565b60a08301525060c062000a0f8482850162000941565b60c08301525060e062000a258482850162000941565b60e08301525061010062000a3c8482850162000941565b6101008301525061012062000a548482850162000941565b6101208301525061014062000a6c8482850162000941565b6101408301525061016062000a848482850162000941565b6101608301525061018062000a9c8482850162000941565b610180830152506101a062000ab48482850162000941565b6101a0830152506101c062000acc8482850162000941565b6101c0830152506101e062000ae48482850162000941565b6101e08301525061020062000afc8482850162000941565b6102008301525061022062000b148482850162000941565b6102208301525061024062000b2c8482850162000941565b6102408301525061026062000b448482850162000941565b6102608301525061028062000b5c8482850162000941565b610280830152506102a062000b748482850162000941565b6102a0830152506102c062000b8c8482850162000941565b6102c0830152506102e062000ba48482850162000941565b6102e08301525061030062000bbc8482850162000941565b6103008301525061032062000bd48482850162000941565b6103208301525061034062000bec8482850162000941565b6103408301525061036062000c048482850162000941565b6103608301525061038062000c1c8482850162000941565b610380830152506103a062000c348482850162000941565b6103a0830152506103c062000c4c8482850162000941565b6103c0830152506103e062000c648482850162000941565b6103e08301525061040062000c7c8482850162000941565b6104008301525061042062000c948482850162000941565b6104208301525061044062000cac8482850162000941565b6104408301525061046062000cc48482850162000941565b6104608301525061048062000cdc8482850162000941565b610480830152506104a062000cf48482850162000941565b6104a08301525092915050565b60006104c0828403121562000d1557600080fd5b600062000d258482850162000958565b91505092915050565b6000604051905081810181811067ffffffffffffffff8211171562000d585762000d5762000daa565b5b8060405250919050565b600062000d6f8262000d8a565b9050919050565b600062000d838262000d62565b9050919050565b600073ffffffffffffffffffffffffffffffffffffffff82169050919050565bfe5b62000db78162000d76565b811462000dc357600080fd5b50565b60805160601c60a05160601c60c05160601c60e05160601c6101005160601c6101205160601c6101405160601c6101605160601c6101805160601c6101a05160601c6101c05160601c6101e05160601c6102005160601c6102205160601c6102405160601c6102605160601c6102805160601c6102a05160601c6102c05160601c6102e05160601c6103005160601c6103205160601c6103405160601c6103605160601c6103805160601c6103a05160601c6103c05160601c6103e05160601c6104005160601c6104205160601c6104405160601c6104605160601c6104805160601c6104a05160601c6104c05160601c6104e05160601c6105005160601c6105205160601c61119f62000fbf6000398061094a52508061090d5250806108d05250806108935250806108565250806108195250806107dc52508061079f5250806107625250806107255250806106e85250806106ab52508061066e5250806106315250806105f45250806105b752508061057a52508061053d5250806105005250806104c352508061048652508061044952508061040c5250806103cf5250806103925250806103555250806103185250806102db52508061029e5250806102615250806102245250806101e75250806101aa52508061016d52508061013052508060f352508060b65250806079525061119f6000f3fe608060405234801561001057600080fd5b506004361061002b5760003560e01c8063e6e2e97c14610030575b600080fd5b61004a60048036038101906100459190610dbf565b610060565b604051610057919061100d565b60405180910390f35b610068610c30565b60058261ffff16116100a55761009e7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60098261ffff16116100e2576100db7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b600e8261ffff161161011f576101187f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60128261ffff161161015c576101557f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60168261ffff1611610199576101927f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60198261ffff16116101d6576101cf7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b601d8261ffff16116102135761020c7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60218261ffff1611610250576102497f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60258261ffff161161028d576102867f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60298261ffff16116102ca576102c37f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b602c8261ffff1611610307576103007f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b602f8261ffff16116103445761033d7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60338261ffff16116103815761037a7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60388261ffff16116103be576103b77f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b603c8261ffff16116103fb576103f47f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b603f8261ffff1611610438576104317f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60448261ffff16116104755761046e7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60488261ffff16116104b2576104ab7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b604b8261ffff16116104ef576104e87f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b604d8261ffff161161052c576105257f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b604f8261ffff1611610569576105627f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60528261ffff16116105a65761059f7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60548261ffff16116105e3576105dc7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60568261ffff1611610620576106197f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60588261ffff161161065d576106567f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b605a8261ffff161161069a576106937f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b605c8261ffff16116106d7576106d07f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b605f8261ffff16116107145761070d7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60618261ffff16116107515761074a7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60638261ffff161161078e576107877f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60658261ffff16116107cb576107c47f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60678261ffff1611610808576108017f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b606a8261ffff16116108455761083e7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b606f8261ffff16116108825761087b7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60728261ffff16116108bf576108b87f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60748261ffff16116108fc576108f57f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60778261ffff1611610939576109327f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60788261ffff16116109765761096f7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b6040517f08c379a00000000000000000000000000000000000000000000000000000000081526004016109a890610fed565b60405180910390fd5b919050565b6109be610c30565b60006109cd8361ffff16610ae9565b6040516020016109dd9190610fc0565b6040516020818303038152906040529050600060608573ffffffffffffffffffffffffffffffffffffffff168380519060200120604051602401604051602081830303815290604052907bffffffffffffffffffffffffffffffffffffffffffffffffffffffff19166020820180517bffffffffffffffffffffffffffffffffffffffffffffffffffffffff8381831617835250505050604051610a819190610fa9565b600060405180830381855afa9150503d8060008114610abc576040519150601f19603f3d011682016040523d82523d6000602084013e610ac1565b606091505b50809250819350505080806020019051810190610ade9190610d7e565b935050505092915050565b60606000821415610b31576040518060400160405280600181526020017f30000000000000000000000000000000000000000000000000000000000000008152509050610c2b565b600082905060005b60008214610b5b578080600101915050600a8281610b5357fe5b049150610b39565b60008167ffffffffffffffff81118015610b7457600080fd5b506040519080825280601f01601f191660200182016040528015610ba75781602001600182028036833780820191505090505b50905060006001830390508593505b60008414610c2357600a8481610bc857fe5b0660300160f81b82828060019003935081518110610be257fe5b60200101907effffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1916908160001a905350600a8481610c1b57fe5b049350610bb6565b819450505050505b919050565b60405180606001604052806060815260200160006001811115610c4f57fe5b8152602001606081525090565b6000610c6f610c6a84611060565b61102f565b905082815260208101848484011115610c8757600080fd5b610c92848285611111565b509392505050565b600081519050610ca98161116b565b92915050565b600082601f830112610cc057600080fd5b8151610cd0848260208601610c5c565b91505092915050565b600060608284031215610ceb57600080fd5b610cf5606061102f565b9050600082015167ffffffffffffffff811115610d1157600080fd5b610d1d84828501610caf565b6000830152506020610d3184828501610c9a565b602083015250604082015167ffffffffffffffff811115610d5157600080fd5b610d5d84828501610caf565b60408301525092915050565b600081359050610d788161117b565b92915050565b600060208284031215610d9057600080fd5b600082015167ffffffffffffffff811115610daa57600080fd5b610db684828501610cd9565b91505092915050565b600060208284031215610dd157600080fd5b6000610ddf84828501610d69565b91505092915050565b6000610df382611090565b610dfd81856110a6565b9350610e0d818560208601611111565b80840191505092915050565b610e22816110ff565b82525050565b6000610e338261109b565b610e3d81856110b1565b9350610e4d818560208601611111565b610e5681611146565b840191505092915050565b6000610e6c8261109b565b610e7681856110d3565b9350610e86818560208601611111565b80840191505092915050565b6000610e9f601a836110c2565b91507f696e76616c69642068617264776172652073656c656374696f6e0000000000006000830152602082019050919050565b6000610edf6009836110d3565b91507f68617264776172655f00000000000000000000000000000000000000000000006000830152600982019050919050565b6000610f1f6002836110d3565b91507f28290000000000000000000000000000000000000000000000000000000000006000830152600282019050919050565b60006060830160008301518482036000860152610f6f8282610e28565b9150506020830151610f846020860182610e19565b5060408301518482036040860152610f9c8282610e28565b9150508091505092915050565b6000610fb58284610de8565b915081905092915050565b6000610fcb82610ed2565b9150610fd78284610e61565b9150610fe282610f12565b915081905092915050565b6000602082019050818103600083015261100681610e92565b9050919050565b600060208201905081810360008301526110278184610f52565b905092915050565b6000604051905081810181811067ffffffffffffffff8211171561105657611055611144565b5b8060405250919050565b600067ffffffffffffffff82111561107b5761107a611144565b5b601f19601f8301169050602081019050919050565b600081519050919050565b600081519050919050565b600081905092915050565b600082825260208201905092915050565b600082825260208201905092915050565b600081905092915050565b60008190506110ec82611157565b919050565b600061ffff82169050919050565b600061110a826110de565b9050919050565b60005b8381101561112f578082015181840152602081019050611114565b8381111561113e576000848401525b50505050565bfe5b6000601f19601f8301169050919050565b6002811061116857611167611144565b5b50565b6002811061117857600080fd5b50565b611184816110f1565b811461118f57600080fd5b5056fea164736f6c6343000706000a",
+  "deployedBytecode": "0x608060405234801561001057600080fd5b506004361061002b5760003560e01c8063e6e2e97c14610030575b600080fd5b61004a60048036038101906100459190610dbf565b610060565b604051610057919061100d565b60405180910390f35b610068610c30565b60058261ffff16116100a55761009e7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60098261ffff16116100e2576100db7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b600e8261ffff161161011f576101187f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60128261ffff161161015c576101557f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60168261ffff1611610199576101927f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60198261ffff16116101d6576101cf7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b601d8261ffff16116102135761020c7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60218261ffff1611610250576102497f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60258261ffff161161028d576102867f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60298261ffff16116102ca576102c37f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b602c8261ffff1611610307576103007f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b602f8261ffff16116103445761033d7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60338261ffff16116103815761037a7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60388261ffff16116103be576103b77f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b603c8261ffff16116103fb576103f47f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b603f8261ffff1611610438576104317f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60448261ffff16116104755761046e7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60488261ffff16116104b2576104ab7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b604b8261ffff16116104ef576104e87f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b604d8261ffff161161052c576105257f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b604f8261ffff1611610569576105627f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60528261ffff16116105a65761059f7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60548261ffff16116105e3576105dc7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60568261ffff1611610620576106197f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60588261ffff161161065d576106567f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b605a8261ffff161161069a576106937f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b605c8261ffff16116106d7576106d07f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b605f8261ffff16116107145761070d7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60618261ffff16116107515761074a7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60638261ffff161161078e576107877f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60658261ffff16116107cb576107c47f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60678261ffff1611610808576108017f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b606a8261ffff16116108455761083e7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b606f8261ffff16116108825761087b7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60728261ffff16116108bf576108b87f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60748261ffff16116108fc576108f57f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60778261ffff1611610939576109327f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b60788261ffff16116109765761096f7f0000000000000000000000000000000000000000000000000000000000000000836109b6565b90506109b1565b6040517f08c379a00000000000000000000000000000000000000000000000000000000081526004016109a890610fed565b60405180910390fd5b919050565b6109be610c30565b60006109cd8361ffff16610ae9565b6040516020016109dd9190610fc0565b6040516020818303038152906040529050600060608573ffffffffffffffffffffffffffffffffffffffff168380519060200120604051602401604051602081830303815290604052907bffffffffffffffffffffffffffffffffffffffffffffffffffffffff19166020820180517bffffffffffffffffffffffffffffffffffffffffffffffffffffffff8381831617835250505050604051610a819190610fa9565b600060405180830381855afa9150503d8060008114610abc576040519150601f19603f3d011682016040523d82523d6000602084013e610ac1565b606091505b50809250819350505080806020019051810190610ade9190610d7e565b935050505092915050565b60606000821415610b31576040518060400160405280600181526020017f30000000000000000000000000000000000000000000000000000000000000008152509050610c2b565b600082905060005b60008214610b5b578080600101915050600a8281610b5357fe5b049150610b39565b60008167ffffffffffffffff81118015610b7457600080fd5b506040519080825280601f01601f191660200182016040528015610ba75781602001600182028036833780820191505090505b50905060006001830390508593505b60008414610c2357600a8481610bc857fe5b0660300160f81b82828060019003935081518110610be257fe5b60200101907effffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff1916908160001a905350600a8481610c1b57fe5b049350610bb6565b819450505050505b919050565b60405180606001604052806060815260200160006001811115610c4f57fe5b8152602001606081525090565b6000610c6f610c6a84611060565b61102f565b905082815260208101848484011115610c8757600080fd5b610c92848285611111565b509392505050565b600081519050610ca98161116b565b92915050565b600082601f830112610cc057600080fd5b8151610cd0848260208601610c5c565b91505092915050565b600060608284031215610ceb57600080fd5b610cf5606061102f565b9050600082015167ffffffffffffffff811115610d1157600080fd5b610d1d84828501610caf565b6000830152506020610d3184828501610c9a565b602083015250604082015167ffffffffffffffff811115610d5157600080fd5b610d5d84828501610caf565b60408301525092915050565b600081359050610d788161117b565b92915050565b600060208284031215610d9057600080fd5b600082015167ffffffffffffffff811115610daa57600080fd5b610db684828501610cd9565b91505092915050565b600060208284031215610dd157600080fd5b6000610ddf84828501610d69565b91505092915050565b6000610df382611090565b610dfd81856110a6565b9350610e0d818560208601611111565b80840191505092915050565b610e22816110ff565b82525050565b6000610e338261109b565b610e3d81856110b1565b9350610e4d818560208601611111565b610e5681611146565b840191505092915050565b6000610e6c8261109b565b610e7681856110d3565b9350610e86818560208601611111565b80840191505092915050565b6000610e9f601a836110c2565b91507f696e76616c69642068617264776172652073656c656374696f6e0000000000006000830152602082019050919050565b6000610edf6009836110d3565b91507f68617264776172655f00000000000000000000000000000000000000000000006000830152600982019050919050565b6000610f1f6002836110d3565b91507f28290000000000000000000000000000000000000000000000000000000000006000830152600282019050919050565b60006060830160008301518482036000860152610f6f8282610e28565b9150506020830151610f846020860182610e19565b5060408301518482036040860152610f9c8282610e28565b9150508091505092915050565b6000610fb58284610de8565b915081905092915050565b6000610fcb82610ed2565b9150610fd78284610e61565b9150610fe282610f12565b915081905092915050565b6000602082019050818103600083015261100681610e92565b9050919050565b600060208201905081810360008301526110278184610f52565b905092915050565b6000604051905081810181811067ffffffffffffffff8211171561105657611055611144565b5b8060405250919050565b600067ffffffffffffffff82111561107b5761107a611144565b5b601f19601f8301169050602081019050919050565b600081519050919050565b600081519050919050565b600081905092915050565b600082825260208201905092915050565b600082825260208201905092915050565b600081905092915050565b60008190506110ec82611157565b919050565b600061ffff82169050919050565b600061110a826110de565b9050919050565b60005b8381101561112f578082015181840152602081019050611114565b8381111561113e576000848401525b50505050565bfe5b6000601f19601f8301169050919050565b6002811061116857611167611144565b5b50565b6002811061117857600080fd5b50565b611184816110f1565b811461118f57600080fd5b5056fea164736f6c6343000706000a",
+  "devdoc": {
+    "details": "Generate Shield SVG",
+    "kind": "dev",
+    "methods": {
+      "generateHardware(uint16)": {
+        "params": {
+          "hardware": "uint representing hardware selection"
+        },
+        "returns": {
+          "_0": "HardwareData containing svg snippet and hardware title and hardware type"
+        }
+      }
+    },
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {
+      "generateHardware(uint16)": {
+        "notice": "Generates hardware snippet of SVG"
+      }
+    },
+    "version": 1
+  },
+  "storageLayout": {
+    "storage": [],
+    "types": null
+  }
+}
